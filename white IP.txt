@@ -1,3 +1,0 @@
-csf -a 81.12.31.194 Torob
-
-csf -a 5.213.255.36/31 Arvancloud
